@@ -14,14 +14,14 @@
 }
 
 .App-header {
-  background-color: white;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(4, 0, 0);
+  color: white;
 }
 
 .App-link {
@@ -42,13 +42,12 @@
   display: flex;
   flex-direction: column;
 }
-.formulario input,label  {
+.formulario label  {
  
   display: inline-block;
   width:160px;
   margin: 1px;
   border-radius: 4px 4px solid;
-  background-color: transparent;
   
 }
 input{
